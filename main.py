@@ -39,3 +39,5 @@ def run():
 
 
 run()
+
+# checking that the push path works
