@@ -40,7 +40,7 @@ class SalesAnalyser:
 
 if __name__ == "__main__":
     # Create an instance of the SalesAnalyzer class
-    analyzer = SalesAnalyser('sales.csv')
+    analyzer = SalesAnalyser('../sales.csv')
 
     # Call the run method on the instance
     analyzer.read_data()
